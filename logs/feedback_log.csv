@@ -1,0 +1,6 @@
+query,response,rating,document,retrieved_chunks
+who is mohan wife,"Mohan's wife's name is Aruniga. 
+
+[Document: sample.pdf, Page: 1]
+[Document: sample.pdf, Page: 1]
+[Document: sample-tables.pdf, Page: 6]",Very relevant,sample-tables.pdf,sample.pdf:p1; sample.pdf:p1; sample-tables.pdf:p6; sample-tables.pdf:p6; sample-tables.pdf:p6
