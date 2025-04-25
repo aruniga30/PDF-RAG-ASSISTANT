@@ -64,4 +64,4 @@ A Retrieval-Augmented Generation (RAG) system for querying PDF documents using l
 - **Chunking Parameters**: Adjust chunk size and overlap for document processing
 
 ## Demo
-https://drive.google.com/file/d/1hMpRDL62t9Lj34IH4zWZqdUb8PMKkeZX/view?usp=sharing
+https://drive.google.com/file/d/11w2OLTAgMoQWxr_RiJaHhKd_xS5E4swU/view?usp=drive_link
